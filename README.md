@@ -29,7 +29,13 @@ I used this info for my final Macroeconomy project.
 
 https://github.com/GustavoMontenegroVargas/More-with-Pandas
 
-Here, you can see more examples of my pandas skills. 
+Here, you can see more examples of my pandas skills.
+
+### Python small project
+
+https://github.com/GustavoMontenegroVargas/Pruebas_Documentales/tree/main/Python%20Assignments
+
+Here I analyze two data Sets in order to find important insights about Financial services. Finally, I built two machine learning models. 
 
 ### Python Skills
 

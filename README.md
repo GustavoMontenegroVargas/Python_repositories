@@ -31,7 +31,7 @@ https://github.com/GustavoMontenegroVargas/More-with-Pandas
 
 Here, you can see more examples of my pandas skills.
 
-### Python small project
+### Python: Financial Services Project
 
 https://github.com/GustavoMontenegroVargas/Pruebas_Documentales/tree/main/Python%20Assignments
 
